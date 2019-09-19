@@ -1,4 +1,5 @@
 # Results #
+
 ## Input ##
 <p align="center">
   <img src="images/1.jpg" width="50" title="">
@@ -14,7 +15,8 @@
   <img src="images/11.jpg" width="50" title="">
   <img src="images/12.jpg" width="50" alt="">
 </p>
+
 ## Output ##
 <p align="center">
-  <img src="images/1.jpg" width="600" title="">
+  <img src="images/output.jpg" width="600" title="">
 </p>
