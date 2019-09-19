@@ -18,5 +18,5 @@
 
 ## Output ##
 <p align="center">
-  <img src="images/output.jpg" width="600" title="">
+  <img src="images/217.jpg" width="600" title="">
 </p>
